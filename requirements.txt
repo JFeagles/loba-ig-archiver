@@ -1,0 +1,5 @@
+instaloader
+pydantic-settings
+requests
+python-telegram-bot
+tenacity
